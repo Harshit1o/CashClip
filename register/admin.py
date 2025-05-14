@@ -1,5 +1,7 @@
 from django.contrib import admin
-from .models import CustomUser
+from .models import CustomUser, Blog, Like, Comment
 
-admin.site.register(CustomUser)  # Register the User model with the admin site
-# Register your models here.
+admin.site.register(CustomUser) 
+admin.site.register(Blog)
+admin.site.register(Like)
+admin.site.register(Comment)
