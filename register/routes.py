@@ -1,3 +1,4 @@
+#these are the routes
 from rest_framework.routers import DefaultRouter
 from .views import UserViews, BlogViews, CommentViews, LikeViews
 
