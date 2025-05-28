@@ -2,7 +2,7 @@
 Django==5.2
 django-cors-headers==4.7.0
 django-jazzmin==3.0.1
-djangorestframework==3.16.0
+djangorestframework
 djangorestframework_simplejwt
 drf-yasg
 
