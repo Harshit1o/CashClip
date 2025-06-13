@@ -141,10 +141,4 @@ To contribute to this project:
 3. Make your changes
 4. Submit a pull request
 
-## License
-
-[Specify your license here]
-
-## Contact
-
-[Your contact information]
+Feel free to make any contributions to this project.
